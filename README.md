@@ -28,11 +28,11 @@ Este repositório demonstra, com exemplos práticos, a aplicação de reconstru�
 
 ```
 scr/
-├── imagens/
-│   ├── entrada/
-│   └── saida/
-├── reconstrucao_ruido.py
-├── reconstrucao_buracos.py
+├── images/
+│   ├── input/
+│   └── output/
+├── main.py
+├── morph_reconstruction.py
 └── utils.py
 ```
 
@@ -44,7 +44,7 @@ scr/
 
 ```bash
 git clone https://github.com/seuusuario/reconstrucao-morfologica-pdi.git
-cd reconstrucao-morfologica-pdi/scr
+cd reconstrucao-morfologica-pdi/src
 ```
 
 ### 2. Instale as dependências:
@@ -58,19 +58,13 @@ pip install -r requirements.txt
 pip install numpy matplotlib opencv-python scikit-image
 ```
 
-### 3. Execute os scripts:
+### 3. Execute o script:
 
-#### 🧹 Remoção de objetos pequenos:
 ```bash
-python reconstrucao_ruido.py
+python main.py
 ```
 
-#### 🕳️ Preenchimento de buracos:
-```bash
-python reconstrucao_buracos.py
-```
-
-As imagens processadas serão salvas em `imagens/saida`.
+As imagens processadas serão salvas em `images/output`.
 
 ---
 
@@ -104,7 +98,7 @@ As imagens processadas serão salvas em `imagens/saida`.
 
 ## 📌 Licença
 
-Projeto acadêmico sem fins lucrativos. Uso educacional permitido com atribuição.
+MIT License
 
 ---
 
