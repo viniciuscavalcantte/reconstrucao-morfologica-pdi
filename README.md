@@ -80,7 +80,7 @@ As imagens processadas serão salvas em `imagens/saida`.
 ![Remoção de ruídos](imagens_saida_ruido.png)
 
 ### 2. Preenchimento de Buracos
-![Preenchimento de buracos](filled_holes_image_plot.jpg)
+![Preenchimento de buracos](src/images/output/filled_holes_image_plot.png)
 
 
 ---
