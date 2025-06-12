@@ -76,10 +76,12 @@ As imagens processadas serão salvas em `imagens/saida`.
 
 ## 🖼️ Exemplos Visuais
 
-| Caso                  | Antes                          | Depois                         |
-|-----------------------|--------------------------------|--------------------------------|
-| Remoção de ruídos     | ![](imagens/entrada/ruido.png) | ![](imagens/saida/limpo.png)  |
-| Preenchimento buracos | ![](imagens/entrada/buraco.png)| ![](imagens/saida/preenchido.png) |
+### 1. Remoção de Ruídos
+![Remoção de ruídos](imagens_saida_ruido.png)
+
+### 2. Preenchimento de Buracos
+![Preenchimento de buracos](imagens_saida_buracos.png)
+
 
 ---
 
