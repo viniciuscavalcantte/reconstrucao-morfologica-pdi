@@ -102,6 +102,11 @@ MIT License
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Desenvolvedores 
 
-José Vinicius Cavalcante Soares  — Universidade Federal de Alagoas – Campus Arapiraca
+Jorge Lucas Firmino da Silva de Sá
+José Carlos Silva Santos 
+José Vinicius Cavalcante Soares
+Liedson da Silva Santos
+Samuel Jonas Cavalcante Lima 
+
