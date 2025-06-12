@@ -102,11 +102,9 @@ MIT License
 
 ---
 
-## 👨‍💻 Desenvolvedores 
-
-Jorge Lucas Firmino da Silva de Sá
-José Carlos Silva Santos 
-José Vinicius Cavalcante Soares
-Liedson da Silva Santos
-Samuel Jonas Cavalcante Lima 
-
+## 👥 Desenvolvedores
+- **José Carlos Silva Santos**   
+- **José Vinicius Cavalcante Soares** 
+- **Jorge Lucas Firmino Silva de Sá**
+- **Liedson Da Silva Santos**
+- **Samuel Jonas Cavalcante Lima**
