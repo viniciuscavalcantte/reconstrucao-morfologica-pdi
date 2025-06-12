@@ -77,7 +77,7 @@ As imagens processadas serão salvas em `imagens/saida`.
 ## 🖼️ Exemplos Visuais
 
 ### 1. Remoção de Ruídos
-![Remoção de ruídos](imagens_saida_ruido.png)
+![Remoção de ruídos](src/images/output/denoised_image_plot.png)
 
 ### 2. Preenchimento de Buracos
 ![Preenchimento de buracos](src/images/output/filled_holes_image_plot.png)
